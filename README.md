@@ -5,7 +5,7 @@ currently only supports `webvtt` (mime: `text/vtt`)
 
 ## how to run  
 whenever you run this just simply input the remote `index.mpd` as the only argument  
-this will attempt to download the index.mpd, parse it and download the webvtts found inside of the webvtt
+this will attempt to download the index.mpd, parse it and download the webvtts found inside of the mpd
 
 ## example
 `webvtt "https://link-to-totally-legit-webside.com/index.mpd"`
